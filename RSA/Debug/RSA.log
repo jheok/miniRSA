@@ -1,0 +1,45 @@
+﻿  rsa.c
+C:\Users\User\Desktop\visual studio\RSA\rsa.c : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\User\Desktop\visual studio\RSA\rsa.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\User\Desktop\visual studio\RSA\rsa.h(69): error C2061: 구문 오류: 식별자 'IsPrime'
+C:\Users\User\Desktop\visual studio\RSA\rsa.h(69): error C2059: 구문 오류: ';'
+C:\Users\User\Desktop\visual studio\RSA\rsa.h(69): error C2059: 구문 오류: '<parameter-list>'
+C:\Users\User\Desktop\visual studio\RSA\rsa.h(78): error C2065: 'state_i': 선언되지 않은 식별자입니다.
+C:\Users\User\Desktop\visual studio\RSA\rsa.h(84): error C2065: 'state_i': 선언되지 않은 식별자입니다.
+C:\Users\User\Desktop\visual studio\RSA\rsa.h(85): error C2065: 'state_i': 선언되지 않은 식별자입니다.
+C:\Users\User\Desktop\visual studio\RSA\rsa.h(86): error C2065: 'state_i': 선언되지 않은 식별자입니다.
+C:\Users\User\Desktop\visual studio\RSA\rsa.h(87): error C2065: 'state_i': 선언되지 않은 식별자입니다.
+C:\Users\User\Desktop\visual studio\RSA\rsa.h(88): error C2065: 'state_i': 선언되지 않은 식별자입니다.
+C:\Users\User\Desktop\visual studio\RSA\rsa.h(89): error C2065: 'state_i': 선언되지 않은 식별자입니다.
+C:\Users\User\Desktop\visual studio\RSA\rsa.h(90): error C2065: 'state_i': 선언되지 않은 식별자입니다.
+C:\Users\User\Desktop\visual studio\RSA\rsa.c(212): warning C4013: 'sleep'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\User\Desktop\visual studio\RSA\rsa.c(241): error C2061: 구문 오류: 식별자 'IsPrime'
+C:\Users\User\Desktop\visual studio\RSA\rsa.c(241): error C2059: 구문 오류: ';'
+C:\Users\User\Desktop\visual studio\RSA\rsa.c(241): error C2059: 구문 오류: '<parameter-list>'
+C:\Users\User\Desktop\visual studio\RSA\rsa.c(338): warning C4013: 'IsPrime'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\User\Desktop\visual studio\RSA\rsa.c(467): error C2065: 'bool': 선언되지 않은 식별자입니다.
+C:\Users\User\Desktop\visual studio\RSA\rsa.c(467): error C2146: 구문 오류: ';'이(가) 'boo' 식별자 앞에 없습니다.
+C:\Users\User\Desktop\visual studio\RSA\rsa.c(467): error C2065: 'boo': 선언되지 않은 식별자입니다.
+C:\Users\User\Desktop\visual studio\RSA\rsa.c(469): error C2065: 'boo': 선언되지 않은 식별자입니다.
+C:\Users\User\Desktop\visual studio\RSA\rsa.c(469): warning C4477: 'printf' : 서식 문자열 '%llu'에 'unsigned __int64' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+  C:\Users\User\Desktop\visual studio\RSA\rsa.c(469): note: 서식 문자열에서 '%u'을(를) 사용하는 것이 좋습니다.
+  C:\Users\User\Desktop\visual studio\RSA\rsa.c(469): note: 서식 문자열에서 '%Iu'을(를) 사용하는 것이 좋습니다.
+  C:\Users\User\Desktop\visual studio\RSA\rsa.c(469): note: 서식 문자열에서 '%I32u'을(를) 사용하는 것이 좋습니다.
+C:\Users\User\Desktop\visual studio\RSA\rsa.c(470): error C2065: 'boo': 선언되지 않은 식별자입니다.
+C:\Users\User\Desktop\visual studio\RSA\rsa.c(470): warning C4477: 'printf' : 서식 문자열 '%llu'에 'unsigned __int64' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+  C:\Users\User\Desktop\visual studio\RSA\rsa.c(470): note: 서식 문자열에서 '%u'을(를) 사용하는 것이 좋습니다.
+  C:\Users\User\Desktop\visual studio\RSA\rsa.c(470): note: 서식 문자열에서 '%Iu'을(를) 사용하는 것이 좋습니다.
+  C:\Users\User\Desktop\visual studio\RSA\rsa.c(470): note: 서식 문자열에서 '%I32u'을(를) 사용하는 것이 좋습니다.
+C:\Users\User\Desktop\visual studio\RSA\rsa.c(472): error C2065: 'bool': 선언되지 않은 식별자입니다.
+C:\Users\User\Desktop\visual studio\RSA\rsa.c(472): error C2146: 구문 오류: ';'이(가) 'boo2' 식별자 앞에 없습니다.
+C:\Users\User\Desktop\visual studio\RSA\rsa.c(472): error C2065: 'boo2': 선언되지 않은 식별자입니다.
+C:\Users\User\Desktop\visual studio\RSA\rsa.c(474): error C2065: 'boo2': 선언되지 않은 식별자입니다.
+C:\Users\User\Desktop\visual studio\RSA\rsa.c(474): warning C4477: 'printf' : 서식 문자열 '%llu'에 'unsigned __int64' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+  C:\Users\User\Desktop\visual studio\RSA\rsa.c(474): note: 서식 문자열에서 '%u'을(를) 사용하는 것이 좋습니다.
+  C:\Users\User\Desktop\visual studio\RSA\rsa.c(474): note: 서식 문자열에서 '%Iu'을(를) 사용하는 것이 좋습니다.
+  C:\Users\User\Desktop\visual studio\RSA\rsa.c(474): note: 서식 문자열에서 '%I32u'을(를) 사용하는 것이 좋습니다.
+C:\Users\User\Desktop\visual studio\RSA\rsa.c(475): error C2065: 'boo2': 선언되지 않은 식별자입니다.
+C:\Users\User\Desktop\visual studio\RSA\rsa.c(475): warning C4477: 'printf' : 서식 문자열 '%llu'에 'unsigned __int64' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+  C:\Users\User\Desktop\visual studio\RSA\rsa.c(475): note: 서식 문자열에서 '%u'을(를) 사용하는 것이 좋습니다.
+  C:\Users\User\Desktop\visual studio\RSA\rsa.c(475): note: 서식 문자열에서 '%Iu'을(를) 사용하는 것이 좋습니다.
+  C:\Users\User\Desktop\visual studio\RSA\rsa.c(475): note: 서식 문자열에서 '%I32u'을(를) 사용하는 것이 좋습니다.
